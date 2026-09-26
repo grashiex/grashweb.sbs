@@ -4,7 +4,7 @@
 window.APP_CONFIG = {
   brandTitle: "grashweb.sbs",
   brandLogo: "",
-  domains: ["grashweb.sbs"],
+  domains: ["grashweb.sbs", "ygmail.cfd"],
   defaultPrefix: "",
   defaultPassword: "grashiex143",
 
